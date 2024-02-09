@@ -9,7 +9,7 @@ public class Main {
             double c = p.product(10.0, 10.5);
     }
 
-     static class Product
+     public static class Product
     {
 
         public int product(int x, int y) { return x*y;}
